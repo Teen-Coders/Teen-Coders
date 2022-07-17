@@ -1,6 +1,6 @@
-<h1>Hello World!</h1>
+<h1 align="center">Hello World!</h1>
 
-<h2 align="canter"> What can you learn with me? </h2>
+<h2> What can you learn with me? </h2>
 <ul>
   <li> 😀 Programming Basics </li>
   <li> ✨ Javascript </li>
